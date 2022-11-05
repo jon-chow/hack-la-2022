@@ -1,16 +1,27 @@
-# 2022 Fall Learning Analytics Hackathon
-> Register here: https://events.ctlt.ubc.ca/events/learning-analytics-hackathon-november-5-2022/
-
-# Welcome!
-Welcome to the #hack-la-2022 github repository. Please fork this repo and share your project back with us. In this repo you should find
-
-* a data dictionary
-* a data sample (full data is available to registrants through the Canvas course)
+# I Hacked-LA-2022
+- "submit" your work by creating a branch with a name formatted like `hacked-la-2022_{your team name}`
   
-* a final_product folder
-  * add your final product description and reflection 
-  * add your presentation files or a link to your presentation - suggested areas to cover in `slides.pptx` (use this as a template, a guide, or just inspiration - it is not a requirement to answer all questions)
+> Your Group Members
+- Chris Qiu
+- Jonathan Chow
+- Bryan Chang
 
-# "Submit"
+# This Project
+> Link to presentation: 
+> Give a brief description of the final product. 
 
-When you are ready to "submit" - please create a new branch called `hacked-la-2022_{your team name}`. If you have time, please replace this README with your project description (you can use [README_template.md](final_product/README_template.md) as a template). 
+Graph x9
+
+# Reflection
+## Approach
+> What was your approach to the dataset? What problem did you want to solve? What technology did you decide to use? How did your team split the work?
+
+We looked at it then made a graph
+We tried to use R but ended up using Python instead in a Jupyter notebook
+We worked on it together
+
+## Wins / Challenges
+> Describe some wins / challenges. What did you learn? What would you do differently next time?
+
+We made a graph 
+We made a graph 
