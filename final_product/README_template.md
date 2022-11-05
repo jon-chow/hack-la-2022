@@ -2,6 +2,11 @@
 - "submit" your work by creating a branch with a name formatted like `hacked-la-2022_{your team name}`
   
 > Your Group Members
+- Ethan Nguyen
+- Chris Qiu
+- Jonathan Chow
+- Bryan Chang
+- Benjamin Nguyen
 
 # This Project
 > Link to presentation: 
